@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(220, 161, 200);
+    color:aqua;
+    color: rgb(7, 7, 222);
+}
+button{
+    /* using rgb */
+    color :rgb(1,1,1);
+    /* using hex */
+    background-color:#ffff00;  
+
+}
+*{
+    color:white;
+}

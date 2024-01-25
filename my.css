@@ -1,0 +1,29 @@
+.true{
+    color:brown;
+}
+table{border-width : 2px;
+border-style: solid;
+border-color:black}
+th{border:solid black 2px  }
+    td{border-width: 2px;
+        border-style: solid;
+        border-color:black;
+        border-radius: 5px;}
+        p{text-align: center;
+        }
+        #smile{
+            height: 100px;
+        width: 100px;
+        border:2px black solid;
+        background-color: yellow;
+        border-radius: 50%;
+        text-align: center;
+        padding: 80px;
+        padding-top: 70px;
+         margin-top:50px;
+        margin:50px;
+       
+        }
+        *{
+            text-align: center;
+        }

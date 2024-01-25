@@ -1,0 +1,36 @@
+.red{height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    text-align: center;
+    margin: 10px;
+
+
+}
+.yellow{height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin: 10px;
+    text-align: center;
+
+}
+.green{height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin: 10px;
+    text-align: center;
+}
+#box{
+    height: 350px;
+    width: 130px;
+    background-color: black;
+    padding-top: 20px;
+}
+.brown{
+height: 110px;
+width: 30px;
+background-color: brown;
+margin-left: 50px;
+}
